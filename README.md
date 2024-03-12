@@ -1,9 +1,9 @@
 # ios101-project2-wordle-starter
-# Project 2 - *Name of App Here*
+# Project 2 - *Wordle*
 
-Submitted by: **Wordle**
+Submitted by: **Rustambek Kholmatov**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that where you can type in the letter and try to guess the letters in hidden cells [TODO] 
 
 Time spent: **5** hours spent in total
 
